@@ -4,8 +4,8 @@ Me chamo Rodrigo Henrique, comecei primeiramente como um Dev. Front-End usando R
 
 Estou em busca de uma nova oportunidade no mercado de trabalho! :+1:
 
-<a target="_blank" href="https://www.linkedin.com/in/rodrigo-henrique/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a target="_blank" href="mailto:rodhenrc@outlook.com">![outlook.live.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/rodrigo-henrique/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:rodhenrc@outlook.com" target="_blank">![outlook.live.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 
 ## Techs
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
