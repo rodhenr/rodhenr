@@ -14,7 +14,6 @@ Estou em busca de uma nova oportunidade no mercado de trabalho! :+1:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Styled](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -23,4 +22,4 @@ Estou em busca de uma nova oportunidade no mercado de trabalho! :+1:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Stats
-[![rodhenr](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhenr&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![rodhenr](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhenr&hide=html,shell&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
