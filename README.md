@@ -22,4 +22,4 @@ Estou em busca de uma nova oportunidade no mercado de trabalho! :+1:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Stats
-[![rodhenr](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhenr&hide=html,shell&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![rodhenr](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhenr&hide=html,shell,procfile&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
