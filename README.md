@@ -1,8 +1,6 @@
 ## Hello World
 
-Me chamo Rodrigo Henrique, comecei primeiramente como um Dev. Front-End usando React e hoje estou me desenvolvendo cada dia mais como um Dev. FullStack utilizando Node.js. Eu estou sempre em busca de novos desafios querendo sempre aprender coisas novas e me mantendo atualizado. 
-
-Estou em busca de uma nova oportunidade no mercado de trabalho! :+1:
+Me chamo Rodrigo Henrique e sou um Desenvolvedor FullStack que está sempre em busca de novos desafios!
 
 <a href="https://www.linkedin.com/in/rodrigo-henrique/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:rodhenrc@outlook.com">![outlook.live.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
