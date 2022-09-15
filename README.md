@@ -1,6 +1,6 @@
 ## Hello World
 
-Olá, eu me chamo Rodrigo Henrique e sou um Desenvolvedor FullStack Júnior apaixonado por desenvolvimento web que está sempre em busca de novos desafios! No meu Github você vai encontrar vários projetos pessoais que tenho realizado afim de me aprimorar cada dia mais!
+Olá, eu me chamo Rodrigo Henrique e sou um Desenvolvedor Front-End Júnior apaixonado por desenvolvimento web que está sempre em busca de novos desafios! No meu Github você vai encontrar vários projetos pessoais que tenho realizado afim de me aprimorar cada dia mais!
 
 <a href="https://www.linkedin.com/in/rodrigo-henrique/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:rodhenrc@outlook.com">![outlook.live.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
