@@ -22,8 +22,5 @@ Por aqui, você vai encontrar projetos pessoais que desenvolvo para aprimorar mi
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Contato
-<a href="https://www.linkedin.com/in/rodrigo-henrique/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 ## Stats
 [![rodhenr](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhenr&hide=html,shell,procfile&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
